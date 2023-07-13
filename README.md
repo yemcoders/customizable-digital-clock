@@ -20,7 +20,7 @@ License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 Acknowledgments
 
-This digital clock was created following a tutorial by ChatGPT.
 Contact
 
-If you have any questions or feedback about this digital clock, please feel free to contact me at my.email@example.com.
+If you have any questions or feedback about this digital clock, please feel free to contact me at info@yemcoders.com
+https://blogbox.yemcoders.com
